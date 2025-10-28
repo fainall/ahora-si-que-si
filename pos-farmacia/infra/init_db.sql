@@ -1,0 +1,1 @@
+-- Opcional: seeds iniciales para roles/usuarios
